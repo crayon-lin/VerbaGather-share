@@ -1,0 +1,186 @@
+[
+  {
+    "id": "e_4a_1",
+    "title_en": "Should College Students Take Part-time Jobs?",
+    "title_cn": "大学生是否应该做兼职",
+    "prompt_cn": "Directions: 本部分考试时间 30 分钟。有人认为大学生做兼职可以锻炼能力、减轻家庭负担，也有人担心兼职会耽误学业。请你写一篇短文，明确表达自己的观点并给出理由。For this part, you are allowed 30 minutes to write an essay on whether college students should take part-time jobs. You should state your opinion clearly and support it with reasons. You should write at least 120 words but no more than 180 words.",
+    "prompt_en": "Write an essay stating whether college students should take part-time jobs, with clear reasons (120-180 words).",
+    "type": "argument",
+    "level": "cet4",
+    "word_count": 165,
+    "paragraphs": [
+      {
+        "en": "On many campuses, students spend their weekends handing out flyers, serving in restaurants or giving private lessons. Some parents worry that such part-time jobs take too much time away from study. In my view, however, a sensible part-time job does college students more good than harm, as long as they keep it in balance with their courses.",
+        "cn": "在不少校园里，学生利用周末发传单、在餐厅打工或做家教。一些家长担心，这类兼职会占用太多学习时间。然而在我看来，一份合适的兼职对大学生利大于弊，前提是他们要与课程保持平衡。",
+        "role": "开头段：现象引入 + 亮明中心论点（利大于弊，但需平衡）"
+      },
+      {
+        "en": "First, work teaches what textbooks cannot. A student who has argued with a difficult customer learns patience and communication, which will be useful in any future job. Second, earning money makes young people value it. Those who pay for their own books and meals usually plan their spending more carefully than those who simply ask their parents.",
+        "cn": "首先，工作能教给学生课本教不了的东西。一个与难缠顾客打过交道的学生，学会了耐心与沟通，这些在任何未来的工作中都用得上。其次，自己挣钱会让年轻人懂得珍惜。自己负担书本和饭钱的学生，在花钱上通常比只会向父母伸手的学生更有规划。",
+        "role": "主体段：两条理由（能力锻炼 + 金钱观），First/Second 并列论证"
+      },
+      {
+        "en": "Still, a job should not take the place of study. Students should choose work that fits their timetable, and they should refuse any job that keeps them up late at night. In short, part-time work is a valuable lesson outside the classroom, provided that we remain students first and workers second.",
+        "cn": "不过，兼职不应取代学业。学生应选择与课表相符的工作，并拒绝那些让自己熬夜的工作。总之，只要能始终把学生身份放在第一位、把打工放在第二位，兼职就是课堂之外一堂宝贵的课。",
+        "role": "结尾段：让步提醒 + 重申观点（In short 收束）"
+      }
+    ],
+    "outline": [
+      { "part": "开头段", "points": ["列举校园常见兼职现象", "指出家长担忧", "亮明观点：利大于弊，但需平衡"] },
+      { "part": "主体段", "points": ["理由一：锻炼沟通与耐心等课本外的能力", "理由二：自己挣钱更懂规划与珍惜"] },
+      { "part": "结尾段", "points": ["让步：兼职不能取代学业", "给出条件：时间可控、不熬夜", "In short 总结：学生第一，打工第二"] }
+    ],
+    "highlights": [
+      { "text": "In my view, however, a sensible part-time job does college students more good than harm", "type": "句型", "note": "do sb. more good than harm 比 be good for 更有分量；however 插入破折观点，语气不硬" },
+      { "text": "as long as they keep it in balance with their courses", "type": "句型", "note": "as long as 引出必要条件，让观点更稳妥；keep sth. in balance with 是四级高频搭配" },
+      { "text": "work teaches what textbooks cannot", "type": "句型", "note": "what 引导宾语从句，短句作段首主题句，干净有力" },
+      { "text": "A student who has argued with a difficult customer learns patience and communication", "type": "句型", "note": "who 定语从句 + 现在完成时，用一个具体场景代替空泛说理" },
+      { "text": "usually plan their spending more carefully than those who simply ask their parents", "type": "词汇", "note": "plan one's spending 比 spend money 更具体；more carefully than 构成对比" },
+      { "text": "provided that we remain students first and workers second", "type": "句型", "note": "provided that 引导条件状语从句，比 if 正式；first/second 排序收尾有记忆点" }
+    ],
+    "tips": [
+      "首段末句必须出现明确的立场词（more good than harm），四级阅卷最先找观点句。",
+      "两个理由用 First / Second 领起，各配一个具体例子，避免整段空谈道理。",
+      "结尾加一句让步（a job should not take the place of study），比一味支持更显思辨，但不冲淡立场。",
+      "全文控制在 160 词左右，留出时间检查时态与单复数，这三处是四级最常见扣分点。"
+    ]
+  },
+  {
+    "id": "e_4a_2",
+    "title_en": "Can Online Learning Replace the Classroom?",
+    "title_cn": "线上学习能否取代课堂",
+    "prompt_cn": "Directions: 本部分考试时间 30 分钟。随着网络课程日益普及，有人预言线上学习终将取代传统课堂。请你写一篇短文，先承认线上学习的优势，再说明它为何无法取代课堂。For this part, you are allowed 30 minutes to write an essay on whether online learning can replace classroom teaching. You should make a concession and then explain your own view. You should write at least 120 words but no more than 180 words.",
+    "prompt_en": "Write an essay that concedes the strengths of online learning but argues it cannot replace the classroom (120-180 words).",
+    "type": "argument",
+    "level": "cet4",
+    "word_count": 171,
+    "paragraphs": [
+      {
+        "en": "During the past few years, online courses have quietly become part of almost every college student's life. They are certainly convenient: we can watch a lecture at midnight, pause it when we feel tired, or replay the part we failed to follow. It is therefore not surprising that some people predict online learning will one day replace the traditional classroom.",
+        "cn": "过去几年，网络课程已悄然成为几乎所有大学生生活的一部分。它们确实方便：我们可以在半夜看讲座，累了就暂停，跟不上的地方还能回看。因此，有人预言线上学习终有一天会取代传统课堂，这并不奇怪。",
+        "role": "开头段：交代背景 + 让一步，承认线上学习的便利"
+      },
+      {
+        "en": "Yet convenience is not the same as education. In a real classroom, a teacher notices a confused face and slows down, while a video keeps talking whether we understand or not. Classmates also create the pressure and warmth that push us to think hard; such a discussion rarely happens when everyone studies alone at home.",
+        "cn": "然而，方便并不等于教育。在真实的课堂上，老师会注意到学生迷茫的表情并放慢速度，而视频不管我们懂不懂都会继续讲下去。同学之间还会形成一种压力与温度，逼着我们去深入思考；当每个人都独自在家学习时，这样的讨论几乎不会发生。",
+        "role": "主体段：转折反驳，用老师反馈与同伴讨论说明课堂不可替代"
+      },
+      {
+        "en": "In conclusion, online learning is a helpful tool rather than a replacement. The best arrangement is a blended one: we watch videos to review basic points, and we come to class to ask questions, argue and be inspired. The classroom may change, but it will not disappear. A good teacher's encouragement, after all, cannot be downloaded.",
+        "cn": "总之，线上学习是有用的工具，而不是替代品。最好的安排是混合式教学：我们用视频复习基础要点，走进课堂去提问、争论、获得启发。课堂的形式或许会变，但它不会消失。毕竟，好老师的鼓励是无法下载的。",
+        "role": "结尾段：给出折中结论（blended）+ 有力收尾"
+      }
+    ],
+    "outline": [
+      { "part": "开头段", "points": ["背景：网课普及", "让步：列举线上学习的便利", "引出对立观点：有人预言取代课堂"] },
+      { "part": "主体段", "points": ["转折：方便不等于教育", "课堂优势一：老师能即时反馈", "课堂优势二：同伴讨论带来思考压力", "反衬：独自在家难以实现"] },
+      { "part": "结尾段", "points": ["结论：工具而非替代品", "建议：混合式学习", "收尾：鼓励无法被下载"] }
+    ],
+    "highlights": [
+      { "text": "It is therefore not surprising that some people predict online learning will one day replace the traditional classroom", "type": "句型", "note": "It is not surprising that 引出对方观点，therefore 承接上文，让步段常用" },
+      { "text": "Yet convenience is not the same as education", "type": "句型", "note": "A is not the same as B 用于反驳，短句转折，立场一步到位" },
+      { "text": "while a video keeps talking whether we understand or not", "type": "句型", "note": "while 表对比；whether ... or not 引导让步，凸显课堂反馈的优势" },
+      { "text": "create the pressure and warmth that push us to think hard", "type": "词汇", "note": "push sb. to do 表推动；pressure and warmth 一冷一暖，抽象概念写得有画面" },
+      { "text": "is a helpful tool rather than a replacement", "type": "句型", "note": "rather than 否定后半，用来给事物定性，比 not a replacement 更委婉" },
+      { "text": "cannot be downloaded", "type": "词汇", "note": "借网络词 downloaded 作双关，收尾短句有幽默感，便于记忆" }
+    ],
+    "tips": [
+      "让步段必须真让（先写便利），再用 Yet 转入反驳，这是四级议论文最稳的思辨结构。",
+      "反驳时要给对比：课堂的老师反馈、同伴讨论 vs. 独自看视频，比抽象说理更有说服力。",
+      "结论处用 rather than / blended 表明立场不是非此即彼，容易拿到内容分。",
+      "注意 while、whether ... or not、after all 等连接手段的自然使用，避免每段都用 Firstly/Secondly。"
+    ]
+  },
+  {
+    "id": "e_4a_3",
+    "title_en": "Changes in Students' Weekly Exercise Time",
+    "title_cn": "学生每周体育锻炼时间的变化",
+    "prompt_cn": "Directions: 本部分考试时间 30 分钟。图表显示了 2021 年至 2024 年某高校学生每周体育锻炼时间的变化。请你描述图表反映的趋势，分析可能的原因，并提出自己的建议。For this part, you are allowed 30 minutes to write an essay based on the chart. You should describe the changes, explain the possible reasons and give your suggestions. You should write at least 120 words but no more than 180 words.",
+    "prompt_en": "Write an essay describing the chart on students' weekly exercise time, analyzing the reasons and offering suggestions (120-180 words).",
+    "type": "chart",
+    "level": "cet4",
+    "word_count": 171,
+    "paragraphs": [
+      {
+        "en": "The chart shows how much time students in our university spent on physical exercise each week. In 2021, an average student exercised only 3.2 hours a week, and nearly half of them did almost no sport. By 2024, the figure had risen to 5.1 hours, while the share of inactive students fell to about one fifth.",
+        "cn": "该图表显示了本校学生每周花在体育锻炼上的时间。2021 年，一名学生平均每周只锻炼 3.2 小时，近一半人几乎不运动。到 2024 年，这一数字升至 5.1 小时，而不运动学生的比例降至约五分之一。",
+        "role": "开头段：描述图表数据（起点、终点、变化幅度）"
+      },
+      {
+        "en": "Several reasons explain the change. First, the university built two new sports centers and made them free for students, so the old excuse of expensive gyms no longer works. Second, morning running became part of the routine for first-year students. Finally, after years of sitting in front of screens, more young people simply want to feel healthy and energetic again.",
+        "cn": "这一变化有几方面原因。首先，学校新建了两座体育中心并免费向学生开放，于是“健身房太贵”这个老借口不再成立。其次，晨跑成为大一学生的日常安排。最后，在屏幕前坐了多年之后，越来越多年轻人只是想要重新找回健康和活力。",
+        "role": "主体段：分析原因（设施免费、制度安排、观念转变）"
+      },
+      {
+        "en": "To keep this trend alive, the university should offer more evening classes, for many students are busy with experiments during the day. Teachers, too, can set an example by joining a weekly game with their classes. Exercise should be seen not as a task on a list but as a habit that makes study easier.",
+        "cn": "为了让这一趋势延续下去，学校应增设晚间课程，因为许多学生白天忙于实验。老师也可以以身作则，每周和班级一起打球。锻炼不应被当成清单上的一项任务，而应被视为一种让学习更轻松的习惯。",
+        "role": "结尾段：提出建议（课程安排、教师示范、观念引导）"
+      }
+    ],
+    "outline": [
+      { "part": "开头段", "points": ["点明图表内容：每周锻炼时间", "给 2021 年数据与不运动比例", "给 2024 年数据，形成对比"] },
+      { "part": "主体段", "points": ["原因一：体育设施增多且免费", "原因二：大一晨跑制度化", "原因三：健康观念转变"] },
+      { "part": "结尾段", "points": ["建议一：增加晚间课程", "建议二：教师带头参与", "总结：锻炼应从任务变成习惯"] }
+    ],
+    "highlights": [
+      { "text": "the figure had risen to 5.1 hours", "type": "数据描述", "note": "the figure 指代前面数字，避免重复；过去完成时体现“到某年为止”的变化" },
+      { "text": "while the share of inactive students fell to about one fifth", "type": "数据描述", "note": "the share of 表示比例；while 引出同时发生的相反变化，一升一降写在同一句" },
+      { "text": "so the old excuse of expensive gyms no longer works", "type": "词汇", "note": "no longer works 表“不再成立”，口语化但得体，让原因分析不呆板" },
+      { "text": "after years of sitting in front of screens", "type": "词汇", "note": "介词短语作时间背景，screens 借代手机电脑，比 phones and computers 更地道" },
+      { "text": "Teachers, too, can set an example by joining a weekly game with their classes", "type": "句型", "note": "set an example by doing 提建议时的常用搭配；too 使建议层递" },
+      { "text": "should be seen not as a task on a list but as a habit that makes study easier", "type": "句型", "note": "not as ... but as ... 对比升华；that 定语从句点出锻炼的益处" }
+    ],
+    "tips": [
+      "图表作文首段一定要写出具体数字和时间（3.2、5.1、2021、2024），只写 increase 会丢描述分。",
+      "描述数据用 rise / fall / the share of 三个词即可，不必堆砌生僻动词。",
+      "原因段用 First / Second / Finally 分三点，每点一句原因加一句解释，逻辑最清楚。",
+      "结尾必须落到建议，与题目要求对应；四级阅卷看重三段是否各有分工。"
+    ]
+  },
+  {
+    "id": "e_4a_4",
+    "title_en": "A Letter to the President on the Library Study Environment",
+    "title_cn": "关于改善图书馆自习环境的建议信",
+    "prompt_cn": "Directions: 本部分考试时间 30 分钟。假设你是李明，近期图书馆自习环境出现了一些问题。请你给校长写一封信，说明存在的具体问题并提出改进建议。For this part, you are allowed 30 minutes to write a letter to the president of your university about improving the study environment in the library. You should explain the problems clearly and offer your suggestions. You should write at least 120 words but no more than 180 words.",
+    "prompt_en": "Write a letter to your university president suggesting ways to improve the library study environment (120-180 words).",
+    "type": "letter",
+    "level": "cet4",
+    "word_count": 166,
+    "paragraphs": [
+      {
+        "en": "Dear President Wang, I am a third-year student writing to suggest some changes to the study environment in our library. The library is the place where I have done most of my reading, and I am grateful for its rich collection and long opening hours. However, a few small problems are now affecting our study.",
+        "cn": "尊敬的王校长：我是一名大三学生，写信是想就图书馆自习环境的改善提出一些建议。图书馆是我读书最多的地方，我很感激它丰富的馆藏和较长的开放时间。不过，目前有几个小问题正在影响我们的学习。",
+        "role": "开头段：称呼 + 自我介绍与写信目的 + 适度肯定 + 转入问题"
+      },
+      {
+        "en": "First, the seats near the windows are always taken before nine in the morning, and many of them are kept by bags rather than people. I suggest a simple seat-booking system and a rule that no seat may be held for more than thirty minutes. Second, the reading rooms are often noisy because the staff's office is next door.",
+        "cn": "首先，靠窗的座位常常在早上九点前就被占满，而其中许多位置是用书包而不是人来占着的。我建议实行简单的座位预约制度，并规定任何座位都不得被占用超过三十分钟。其次，阅览室常常很吵，因为工作人员办公室就在旁边。",
+        "role": "主体段：指出两个具体问题并各配一条可操作的建议"
+      },
+      {
+        "en": "I would also be grateful if the reading rooms could stay open until eleven during the exam weeks. These changes may cost little, but they would make the library a far more comfortable place. Thank you for your time, and I look forward to seeing our library improve. Yours sincerely, Li Ming",
+        "cn": "如果阅览室在考试周能延长开放到十一点，我也会非常感激。这些改动花费不多，却能让图书馆变成一个舒适得多的地方。感谢您抽时间阅读，我期待看到我们的图书馆变得更好。此致敬礼，李明",
+        "role": "结尾段：补充建议 + 说明成本与收益 + 致谢与署名"
+      }
+    ],
+    "outline": [
+      { "part": "开头段", "points": ["称呼与身份", "说明写信目的", "肯定图书馆优点，语气礼貌"] },
+      { "part": "主体段", "points": ["问题一：占座，建议预约制 + 三十分钟规则", "问题二：阅览室噪音，源于办公室位置"] },
+      { "part": "结尾段", "points": ["建议三：考试周延长开放", "说明成本低、收益大", "致谢与署名 Li Ming"] }
+    ],
+    "highlights": [
+      { "text": "I am a third-year student writing to suggest some changes", "type": "句型", "note": "writing to do 是书信开头说明目的的标准写法，简洁不啰嗦" },
+      { "text": "I am grateful for its rich collection and long opening hours", "type": "词汇", "note": "be grateful for 表达感谢，先肯定再提意见，语气不失礼" },
+      { "text": "many of them are kept by bags rather than people", "type": "词汇", "note": "rather than 对比占座现象，形象点出问题；被动语态保持客观" },
+      { "text": "a rule that no seat may be held for more than thirty minutes", "type": "句型", "note": "that 引导同位语从句解释 rule；may be held 用情态被动，措辞像正式制度" },
+      { "text": "I would also be grateful if the reading rooms could stay open until eleven", "type": "句型", "note": "I would be grateful if ... could ... 是提请求的委婉句式，符合书信身份" },
+      { "text": "These changes may cost little, but they would make the library a far more comfortable place", "type": "句型", "note": "may ... but would ... 先让一步再强调收益，说服力强" }
+    ],
+    "tips": [
+      "书信必须有称呼、正文、结尾敬语与署名，缺任何一项格式分会被扣。",
+      "建议信先肯定再提问题，用 However 过渡；每条建议都要具体可执行，别只写 should improve。",
+      "多用 I suggest / I would be grateful if 等委婉句式，避免命令语气。",
+      "结尾点明“成本低、效果好”，能体现建议的可行性，是四级书信的加分项。"
+    ]
+  }
+]

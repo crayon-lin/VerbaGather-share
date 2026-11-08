@@ -1,0 +1,318 @@
+[
+  {
+    "id": "e_6a_1",
+    "title_en": "Why Human Creativity Matters More in the Age of AI",
+    "title_cn": "人工智能时代，人的创造力为何更加重要",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write an essay on human creativity in the age of AI. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write an essay on why human creativity matters more in the age of artificial intelligence (150–200 words).",
+    "type": "argument",
+    "level": "cet6",
+    "word_count": 195,
+    "paragraphs": [
+      {
+        "en": "The rise of generative artificial intelligence has revived an old anxiety: if a machine can compose a symphony in seconds, is human creativity losing its value? I would argue not. Far from rendering creativity redundant, such tools make it more decisive than ever, because a machine is only as original as the questions we put to it, while framing questions remains a human monopoly.",
+        "cn": "生成式人工智能的崛起再度唤起了那桩古老的焦虑：若机器能在数秒间谱出交响，人的创造力是否正在贬值？我的看法并非如此。这类工具非但没有让创造力变得多余，反而令它前所未有地关键——机器的原创性永远以我们提出的问题为界，而界定问题，始终是人类的专利。",
+        "role": "开头段：以焦虑式设问引入，先破后立，亮明“创造力更关键”的中心论点"
+      },
+      {
+        "en": "Machines excel at recombination, yet they learn only from what has been said. Genuine creativity begins where the data ends: in the willingness to contradict a consensus, to pursue a hunch and to notice what no dataset records. A model may generate a thousand variations, but it cannot decide which to pursue; that judgement, shaped by taste, doubt and moral sense, is where originality lives.",
+        "cn": "机器极擅长重新组合，但它们只能从别人已经说过的话中学习。真正的创造始于数据终止之处：敢于反驳共识，敢于追随一个尚未成形的直觉，敢于留意那些数据库从不记录的东西。模型可以生成千百种方案，却无法判定哪一种值得追求；而这种由品味、怀疑与道德感共同塑成的判断，正是原创性栖居之地。",
+        "role": "论证段一：从技术层面论证机器只能重组既有材料，判断与取舍仍是人类专属"
+      },
+      {
+        "en": "The deeper issue is responsibility, not capability. When an algorithm drafts a diagnosis, someone must decide whether to trust it, and that decision is as much a creative act as a moral one. An age of abundant machine output rewards those who frame problems and imagine alternatives nobody has proposed. Creativity is no longer decorative: it is what keeps human purpose in command of its tools.",
+        "cn": "更深一层的问题不在能力，而在责任。当算法草拟一份诊断，终究要有人决定是否信任它，而这一决定既是道德行为，也是创造行为。在机器产出过剩的时代，真正被奖赏的是能界定问题、并想象出无人提出过的替代方案的人。创造力不再是装饰性的点缀：它是让人的目的始终驾驭工具的那种能力。",
+        "role": "升华段：由能力转向责任，指出创造力让人保有主导权，收束全文"
+      }
+    ],
+    "outline": [
+      {
+        "part": "开头段",
+        "points": ["用“机器谱曲”的现象设置焦虑", "以 I would argue not 反转", "点明创造力因提问能力而更关键"]
+      },
+      {
+        "part": "论证段一",
+        "points": ["机器的强项是重组已有信息", "创造力始于数据之外的质疑与直觉", "模型能给选项，不能给取舍标准"]
+      },
+      {
+        "part": "升华段",
+        "points": ["核心差别是责任而非能力", "信任算法的决定本身就是创造", "创造力让人而非工具掌握目的"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Far from rendering creativity redundant",
+        "type": "句型",
+        "note": "Far from + doing 表“远非”，先退一步再反转，语气克制而有力"
+      },
+      {
+        "text": "only as original as the questions we put to it",
+        "type": "句型",
+        "note": "as ... as 比较结构把“原创性”落到“提问”上，抽象议题具体化"
+      },
+      {
+        "text": "Genuine creativity begins where the data ends",
+        "type": "修辞",
+        "note": "短句加对比收束，长句之后用短句定音，是六级高分段落节奏"
+      },
+      {
+        "text": "shaped by taste, doubt and moral sense",
+        "type": "搭配",
+        "note": "过去分词短语作后置定语，三层并列由感官到理性，信息密度高"
+      },
+      {
+        "text": "is as much a creative act as a moral one",
+        "type": "搭配",
+        "note": "as much A as B 表“既是 A 也是 B”，比 also 更有分量"
+      },
+      {
+        "text": "it is what keeps human purpose in command of its tools",
+        "type": "句型",
+        "note": "what 引导表语从句，配 keep ... in command of，结尾点题不空喊"
+      }
+    ],
+    "tips": [
+      "抽象议题按“让步—拆解—升华”三段推进，避免并列罗列观点",
+      "每段 60–90 词，段末用短句收束，长句之后必须有短句定调",
+      "高级结构（Far from、as ... as、what 从句）一两处到位即可，宁准不炫",
+      "结尾把论点落到“责任、判断、主导权”这类可感概念上，比复述题目得分高"
+    ]
+  },
+  {
+    "id": "e_6a_2",
+    "title_en": "Slow Employment: A Wise Pause or a Costly Delay?",
+    "title_cn": "慢就业：理智的停顿，还是昂贵的拖延？",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write an essay on slow employment among young graduates. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write an essay on whether college graduates should be encouraged to take \"slow employment\" (150–200 words).",
+    "type": "argument",
+    "level": "cet6",
+    "word_count": 197,
+    "paragraphs": [
+      {
+        "en": "Growing numbers of graduates now choose what the media call \"slow employment\": instead of accepting the first offer that comes along, they spend months preparing for examinations, travelling or rethinking their direction. Supporters see a mature generation refusing to rush; critics see anxious young people drifting. The question is not whether a pause can be valuable, but whether it deserves to be encouraged as a strategy.",
+        "cn": "如今，越来越多的毕业生选择了媒体所称的“慢就业”：他们不急于接受第一份到手的录用通知，而是花上数月备考、远行，或重新思考自己的方向。支持者看到一代人以成熟姿态拒绝仓促，批评者则看到焦虑的年轻人随波逐流。问题的关键不在于停顿是否可能有价值，而在于它是否值得被当作一种策略加以鼓励。",
+        "role": "开头段：交代慢就业现象与两派舆论，用 not whether ... but whether 立起议题"
+      },
+      {
+        "en": "The case for a pause is real. A hasty first job fixes a young person in a field they never examined, and correcting that mistake later is costly. Time used deliberately, to pass an examination, to test a business idea or to recover from burnout, can improve that choice. Employers value candidates who can explain the interval, provided the account is honest rather than decorative.",
+        "cn": "慢就业确有其成立的道理。仓促入职常把年轻人钉在一份自己从未审视过的职业里，而日后纠错的代价很高。刻意安排的时间——无论是考取资格、试水一个创业想法，还是从倦怠中恢复——都能让这次选择更为稳妥。用人方也看重那些能讲清这段空档的人，前提是这份说明诚实，而非粉饰。",
+        "role": "论证段一：正面立论，从纠错成本、选择品质、雇主态度三点说明停顿的价值"
+      },
+      {
+        "en": "Yet encouragement has limits. A pause becomes drift when it has no deadline, no budget and no evidence of progress; without structure, the freedom that looked like maturity quietly turns into avoidance. What students need is not blanket approval but honest scaffolding: a clear timeline, part-time work and mentors who ask hard questions. Slow employment is defensible only when it is a plan, not a refuge.",
+        "cn": "然而，鼓励是有边界的。当一段停顿既无期限、又无预算、更无进展可验，它便悄然沦为漂移；一旦失去结构，那份看似成熟的自在会悄悄变成逃避。因此，学生需要的不是笼统的赞许，而是诚实的脚手架：清晰的时间表、兼职，以及愿意提出尖锐问题的师长。只有当慢就业是一份计划而非一处避难所时，它才站得住脚。",
+        "role": "论证段二：转折限定成立条件，提出“计划而非避难所”的结论"
+      }
+    ],
+    "outline": [
+      {
+        "part": "开头段",
+        "points": ["描述慢就业现象", "并列支持者与批评者的声音", "用 not ... but 句提出真正的问题"]
+      },
+      {
+        "part": "论证段一",
+        "points": ["仓促入职的纠错成本高", "刻意利用的间隔提升首份选择的品质", "雇主看重能说明间隔经历的人"]
+      },
+      {
+        "part": "论证段二",
+        "points": ["无期限无预算的停顿沦为漂移", "自由若无结构便成为逃避", "给出时间表、兼职、导师三项条件"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "instead of accepting the first offer that comes along",
+        "type": "搭配",
+        "note": "instead of + doing 表取舍，come along 让“随手可得的机会”有了画面感"
+      },
+      {
+        "text": "The question is not whether a pause can be valuable, but whether it deserves to be encouraged",
+        "type": "句型",
+        "note": "not whether ... but whether 双问句推进，把讨论从现象拉到政策层面"
+      },
+      {
+        "text": "fixes a young person in a field they never examined",
+        "type": "搭配",
+        "note": "fix sb in 表“把人固定在某处”，比 put 更有约束感，且含省略关系词定语从句"
+      },
+      {
+        "text": "the freedom that looked like maturity quietly turns into avoidance",
+        "type": "修辞",
+        "note": "外观与实质的对照，look like 与 turn into 前后呼应，一句写出反讽"
+      },
+      {
+        "text": "not blanket approval but honest scaffolding",
+        "type": "搭配",
+        "note": "blanket approval 与 scaffolding 一贬一褒，隐喻具体，避免空洞说理"
+      },
+      {
+        "text": "only when it is a plan, not a refuge",
+        "type": "句型",
+        "note": "only when 引导条件置于句末，plan 与 refuge 对举，收尾干脆"
+      }
+    ],
+    "tips": [
+      "先立后破：第二段充分承认慢就业的合理性，第三段再限定条件，辩证感立刻显现",
+      "多角度论证需分层次，可按个人、雇主、家庭三线展开，切忌同一理由换词重说",
+      "结论给可操作的条件（时间表、兼职、导师），比空喊“理性选择”更符合六级评分",
+      "议论文不用缩写形式（don't、it's），保持书面语体"
+    ]
+  },
+  {
+    "id": "e_6a_3",
+    "title_en": "From Paper to Pixels: A Country's Changing Reading Habits",
+    "title_cn": "从纸页到屏幕：一国阅读习惯的变迁",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write an essay based on the chart below. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write an essay that describes and interprets a chart on digital versus paper reading in one country (150–200 words).",
+    "type": "chart",
+    "level": "cet6",
+    "word_count": 194,
+    "paragraphs": [
+      {
+        "en": "The chart tracks one country's reading habits in 2015 and 2024. In 2015, 72% named paper as their main channel, while only 28% relied chiefly on screens. By 2024 the two figures had almost reversed: digital reading had climbed to 63%, paper had fallen to 37%. The shift is neither marginal nor sudden; it is the visible result of a decade of quiet substitution.",
+        "cn": "图表追踪了某国在 2015 年与 2024 年的阅读习惯。2015 年，72% 的读者以纸张为主要渠道，仅 28% 主要依赖屏幕。到 2024 年，两组数字几乎互换：数字阅读升至 63%，纸张阅读降至 37%。这一转变既不轻微，也不突兀，而是十年间悄然替代所留下的可见痕迹。",
+        "role": "开头段：交代图表主题，用三组数据完成趋势描述并点出“替代”性质"
+      },
+      {
+        "en": "Several forces drove the change. Smartphones put an entire library in a coat pocket, and commuting time, once wasted, became reading time. Digital editions are cheaper, searchable and instantly delivered, and publishers, following the revenue, moved new titles online first. Paper, for its part, lost its practical advantages long before it lost its cultural prestige, which is why the retreat looks gradual, not dramatic.",
+        "cn": "推动这一变化的力量有好几重。智能手机把一座图书馆塞进衣袋，原本被浪费的通勤时间于是变成了阅读时间；电子版更便宜、可检索、即点即得，出版方追随收入流向，让新书先上线。至于纸张，它早在失去文化声望之前，就已先失去了实用优势，这也正是这种退场显得渐进、而非骤然的原因。",
+        "role": "分析段：从设备、成本与出版产业三个层面解释数据变化的成因"
+      },
+      {
+        "en": "Yet the numbers measure channel, not depth. Reading on a phone invites interruption, and an interrupted reader skims where a paper reader lingers; quantity rises while attention thins. Paper survives precisely where concentration matters, among students, researchers and anyone rereading a difficult text. The real question is not which format wins but whether convenience silently becomes the only standard by which we judge what we read.",
+        "cn": "然而，这些数字衡量的只是渠道，而非深度。在手机上阅读格外容易被打断，而被中断的读者会略读，纸质读者却愿意停留；于是阅读量上升，注意力却被稀释。纸张恰恰在需要专注的地方存续下来：学生、研究者，以及任何反复重读艰深文本的人。真正的问题不是哪种媒介胜出，而是便利是否在不知不觉间，成了我们评判所读之物的唯一标准。",
+        "role": "评价段：由数据转向深度与注意力的分析，提出超越媒介之争的判断"
+      }
+    ],
+    "outline": [
+      {
+        "part": "开头段",
+        "points": ["说明图表对象与两个年份", "给出 72%/28% 与 63%/37% 的对比", "用 quiet substitution 概括趋势"]
+      },
+      {
+        "part": "分析段",
+        "points": ["手机让碎片时间变成阅读时间", "电子版便宜、可检索、上线更快", "纸张先失去实用优势再失去声望"]
+      },
+      {
+        "part": "评价段",
+        "points": ["数据反映渠道而非深度", "碎片阅读抬高数量、稀释注意力", "纸媒在需要专注之处存续，问题落在评判标准"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "the two figures had almost reversed",
+        "type": "搭配",
+        "note": "过去完成时加 almost，简洁交代两组数据的互换关系"
+      },
+      {
+        "text": "the visible result of a decade of quiet substitution",
+        "type": "搭配",
+        "note": "quiet substitution 把抽象趋势命名，是图表作文显功力的写法"
+      },
+      {
+        "text": "Smartphones put an entire library in a coat pocket",
+        "type": "修辞",
+        "note": "夸张意象替代 dry fact，数据段里加一句画面感可提分"
+      },
+      {
+        "text": "lost its practical advantages long before it lost its cultural prestige",
+        "type": "句型",
+        "note": "long before 表达两个过程的先后，体现因果层次"
+      },
+      {
+        "text": "quantity rises while attention thins",
+        "type": "修辞",
+        "note": "八个词的对照短句，while 表相反走向，thins 一词作动词极省"
+      },
+      {
+        "text": "not which format wins but whether convenience silently becomes the only standard",
+        "type": "句型",
+        "note": "not ... but 把媒介之争推向评判标准，收尾有锋芒而不空喊"
+      }
+    ],
+    "tips": [
+      "首段至少给出三组数字并交代年份，描述数据用过去时，跨年对比可用过去完成时",
+      "第二段解释成因，第三段作评价，不要重复首段的描述性内容",
+      "图表作文忌罗列所有数据，选最能说明趋势的一两组对比即可",
+      "结尾把话题从“媒介”推进到“评判标准”，是六级图表题拉开档次的关键"
+    ]
+  },
+  {
+    "id": "e_6a_4",
+    "title_en": "A Letter to the Editor on Campus Plastic Waste",
+    "title_cn": "就校园塑料浪费致校报编辑部的一封信",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write a letter to the editor about campus plastic waste. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write a letter to your campus newspaper editor about plastic waste on campus (150–200 words).",
+    "type": "letter",
+    "level": "cet6",
+    "word_count": 196,
+    "paragraphs": [
+      {
+        "en": "Dear Editor, I am writing to draw attention to the plastic our campus throws away daily. Walk past the canteen at noon and you will see bins overflowing with takeaway boxes and cups, most of which are used for ten minutes and then buried for centuries. The sight has become so ordinary that we no longer notice it, which is precisely why it deserves space in your paper.",
+        "cn": "编辑老师：我写信是想提请注意我们校园每天丢弃的塑料。中午走过食堂，你会看到垃圾桶里塞满外卖盒与纸杯——它们大多只被使用十分钟，却要被掩埋数百年。这样的景象已平常到我们不再留意，而恰恰因此，它值得在贵报占一席之地。",
+        "role": "开头段：书信称呼与写信目的，以食堂场景点出现象的触目惊心"
+      },
+      {
+        "en": "The waste is not merely an aesthetic problem. Cheap containers leak into soil and waterways, and the university's disposal budget rises while its green credentials quietly erode. Nor is the fault entirely personal: students choose convenience because the alternative is inconvenient. A canteen that charged for packaging, or a library that refused disposable cups, would change behaviour far faster than any poster urging us to care.",
+        "cn": "这种浪费不只是观感问题。廉价容器渗入土壤与水体，校方的清运预算上涨，绿色形象却在悄悄流失。责任也不全在个人：学生之所以选择便利，是因为另一个选项并不便利。若食堂对包装另行收费，或图书馆拒用一次性杯，改变行为的速度会远快于任何呼吁我们“要有意识”的海报。",
+        "role": "主体段：从环境危害、学校成本与制度缺位三层分析，指出制度约束优于道德呼吁"
+      },
+      {
+        "en": "I would therefore suggest three modest steps: reusable containers sold at cost in every canteen, clearly labelled recycling points beside each bin, and a monthly column in your paper tracking our progress. None of these requires a large budget, only the will to begin. If this letter prompts even a short debate, it will have served its purpose. Yours sincerely, Li Ming.",
+        "cn": "因此我建议三项不高的举措：各食堂以成本价出售可重复使用的餐盒，在每个垃圾桶旁设立标识清楚的回收点，并在贵报开设每月专栏追踪进展。这些都不需要大笔预算，只需要开始的意愿。若这封信能促成哪怕一场简短的讨论，它便已达成目的。此致，李明。",
+        "role": "结尾段：提出三条具体建议，礼貌收束并呼应写信目的"
+      }
+    ],
+    "outline": [
+      {
+        "part": "开头段",
+        "points": ["使用 Dear Editor 与 I am writing to 点明目的", "以食堂垃圾桶场景呈现浪费", "用 so ... that 句指出“习以为常”的危害"]
+      },
+      {
+        "part": "主体段",
+        "points": ["塑料渗透土壤水体，清运成本上升", "责任不全在个人，便利缺位才是主因", "收费与拒用一次性杯比海报有效"]
+      },
+      {
+        "part": "结尾段",
+        "points": ["三点具体建议：餐盒、回收点、专栏", "强调不需大预算，只需开始", "以开放条件句收束并署名"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "I am writing to draw attention to",
+        "type": "句型",
+        "note": "书信开篇固定功能句，draw attention to 比 talk about 正式得体"
+      },
+      {
+        "text": "used for ten minutes and then buried for centuries",
+        "type": "修辞",
+        "note": "十分钟与数百年的时间对照，一句写尽一次性塑料的荒谬"
+      },
+      {
+        "text": "so ordinary that we no longer notice it",
+        "type": "句型",
+        "note": "so ... that 结构把现象推到麻木，为下文倡议铺垫"
+      },
+      {
+        "text": "Nor is the fault entirely personal",
+        "type": "语法",
+        "note": "Nor 置于句首引起部分倒装，论证转向制度层面，衔接自然"
+      },
+      {
+        "text": "would change behaviour far faster than any poster urging us to care",
+        "type": "句型",
+        "note": "虚拟条件句加比较级，推测效果而非空喊，说服力强"
+      },
+      {
+        "text": "If this letter prompts even a short debate, it will have served its purpose",
+        "type": "句型",
+        "note": "委婉条件句收尾，既谦逊又留有余地，符合读者来信语体"
+      }
+    ],
+    "tips": [
+      "书信必须有称呼与落款（Dear Editor / Yours sincerely, Li Ming），缺一项直接扣分",
+      "正文三段走“问题—分析—建议”，建议须具体可执行，忌笼统呼吁环保",
+      "语气礼貌但立场明确，多用 I am writing to、I would suggest 等功能句",
+      "结尾用条件句或期待回应收束，避免生硬喊口号"
+    ]
+  }
+]

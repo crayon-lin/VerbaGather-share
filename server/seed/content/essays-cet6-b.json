@@ -1,0 +1,314 @@
+[
+  {
+    "id": "e_6b_1",
+    "title_en": "Can Employment Rates Measure the Value of Higher Education?",
+    "title_cn": "就业率能否衡量高等教育的价值",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write an essay on whether employment rates alone can measure the value of higher education. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write an essay on whether higher education's value can be measured solely by graduate employment rates (150–200 words).",
+    "type": "argument",
+    "level": "cet6",
+    "word_count": 195,
+    "paragraphs": [
+      {
+        "en": "Every spring, universities publish employment reports, and parents scan them the way investors scan stock prices. The logic seems impeccable: students pay tuition, so they expect a job. Yet reducing four years of inquiry to a single percentage betrays what a university does. Employment figures measure one outcome, a narrow one at that; they say nothing about whether graduates learn to think for themselves.",
+        "cn": "每年春天，大学都会发布就业报告，家长们读它，如同投资者读股价。这逻辑看似无懈可击：学生缴了学费，自然期待一份工作。然而，把四年的求索压缩成一个百分比，恰恰辜负了大学真正在做的事。就业数据只衡量一种结果，而且是相当狭窄的一种；它无法告诉我们，一名毕业生是否学会了独立思考。",
+        "role": "开头段：由就业报告的现象切入，亮明“就业率是狭窄指标”的论点"
+      },
+      {
+        "en": "None of this denies that employability matters. A degree that leaves graduates unprepared for work is a failure, and universities should be candid about placement records. The trouble is that such records reward speed over depth: a graduate who accepts a low-paid job in June counts, while one who spends a year reading philosophy abroad does not. Such statistics quietly punish the independence they claim to prize.",
+        "cn": "这并非否认就业能力的重要。一个让毕业生对工作毫无准备的学位是失败的，大学也应当坦诚公布毕业生的去向数据。问题在于，这类数据奖励的是速度而非深度：六月里接受一份低薪工作的毕业生被计入，而花一年时间在异国读哲学的毕业生则不被计入。这样的统计，恰在悄悄惩罚它声称珍视的独立。",
+        "role": "主体段：先让步承认就业数据的作用，再指出其偏差所在"
+      },
+      {
+        "en": "A better measure would be a portfolio of outcomes: whether graduates can support themselves, certainly, but also whether they keep reading, question authority, and adapt when their first career disappears. Employment rates deserve a place on that list, not the top of it. A university's deepest value lies in what cannot be counted, which is why we must be careful about what we count.",
+        "cn": "更可取的衡量方式，是一组结果的组合：毕业生固然要能自食其力，但也要看他是否继续读书、是否敢于质疑权威、是否在第一个职业消失时能够转身。就业率应当在这份清单上占一席之地，却不该占据首位。大学最深的价值，藏在无法被计算之处——这正是我们必须谨慎决定“计算什么”的原因。",
+        "role": "结尾段：提出多维评价方案，回到“计算什么”的问题收束全文"
+      }
+    ],
+    "outline": [
+      {
+        "part": "第一段",
+        "points": ["以每年就业报告的时节性现象切入", "用投资者读股价的比喻点破功利逻辑", "亮明论点：就业率只是一种狭窄的结果"]
+      },
+      {
+        "part": "第二段",
+        "points": ["先让步：就业能力与就业数据都不可否认", "转折指出数据奖励速度而非深度", "以“低薪就职”与“异国读哲学”的对照具体化"]
+      },
+      {
+        "part": "第三段",
+        "points": ["提出多维度替代方案：收入、阅读、质疑、转身能力", "把就业率放回清单中的合理位置", "以“无法计算之物”收束，回应开头之问"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "scan them the way investors scan stock prices",
+        "type": "比喻",
+        "note": "the way 引导方式状语从句，把家长读报告比作读股价，一句立住功利心态"
+      },
+      {
+        "text": "Employment figures measure one outcome, a narrow one at that",
+        "type": "句式",
+        "note": "a narrow one at that 为补充性插入语，语气冷静而带锋芒，比 only 更有分寸"
+      },
+      {
+        "text": "reward speed over depth",
+        "type": "搭配",
+        "note": "reward A over B 表示“奖励A而非B”，可用于评价机制、标准类话题"
+      },
+      {
+        "text": "quietly punish the independence they claim to prize",
+        "type": "反讽",
+        "note": "quietly 与 claim to prize 构成反讽：机械的统计在惩罚它自称珍视的东西"
+      },
+      {
+        "text": "A better measure would be a portfolio of outcomes",
+        "type": "词汇",
+        "note": "portfolio 原指作品集、投资组合，此处引申为“一组指标”，比 several standards 更地道"
+      },
+      {
+        "text": "what cannot be counted",
+        "type": "收束",
+        "note": "名词性从句作介词宾语，与末句 what we count 首尾呼应，避免口号式结论"
+      }
+    ],
+    "tips": [
+      "三段走“现象—让步—升华”，第二段务必先承认对方合理，反击才站得住",
+      "少用“一方面……另一方面”的并列骨架，改用具体例子承担对比",
+      "结尾回到开头的问题但抬高一层，不要重复第一段论点"
+    ]
+  },
+  {
+    "id": "e_6b_2",
+    "title_en": "Reading More, Buying Less",
+    "title_cn": "读得更多，买得更少：城市阅读之变",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write an essay based on a chart of urban reading and book purchases. Describe, explain and evaluate the trend. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write a chart essay describing, explaining and evaluating the changes in urban residents' reading volume and print book purchases (150–200 words).",
+    "type": "chart",
+    "level": "cet6",
+    "word_count": 198,
+    "paragraphs": [
+      {
+        "en": "The chart follows reading habits in a midsized city between 2018 and 2023; its two curves move in opposite directions. The average number of books read per person a year climbed from 4.6 to 9.2, while print purchases slid from 5.8 copies to 3.1. What matters is not either figure but the gap between them, which was barely visible in 2018 and had widened into a chasm by 2023.",
+        "cn": "图表追踪了某中等城市在2018至2023年间的阅读状况，两条曲线的走向恰好相反。人均年阅读量从4.6本升至9.2本，而纸质书购买量则从5.8本滑落到3.1本。真正值得注意的不是任何一个数字，而是两者之间的差距：它在2018年几乎难以察觉，到2023年已裂成一道鸿沟。",
+        "role": "描述段：交代图表对象与时间跨度，用两组数据说明反向走势"
+      },
+      {
+        "en": "Several forces explain the split. Smartphones and e-readers have made texts cheap and portable, so a commuter can finish a chapter on a crowded bus. Audiobooks have turned dead time into reading time, and libraries have expanded their catalogues. Price matters too: with housing costs climbing, a family that once bought hardbacks on impulse now hesitates over a book it may read only once.",
+        "cn": "原因是多方面的。智能手机与电子阅读器让文本变得便宜而便携，通勤者站在拥挤的公交车上也能读完一章；有声书把零碎的死时间变成了阅读时间；图书馆则扩充了馆藏。价格也是其中一环：房价上涨之下，一个曾一时兴起买下精装书的家庭，如今面对一本可能只读一次的书，也要再三犹豫。",
+        "role": "归因段：从技术、时间、公共资源与消费心理四个层面解释分歧"
+      },
+      {
+        "en": "On balance, a city reading twice what it did five years ago has gained something real. Still, the retreat from print has costs: deep reading survives interruption less easily on a glowing screen, and independent bookshops anchor neighbourhoods in ways no algorithm can. The task is not to reverse the trend but to keep libraries and bookshops alive as places where reading is chosen slowly.",
+        "cn": "总体来看，一座城市的阅读量是五年前的两倍，它确实得到了某种实在的东西。但远离纸质书仍有代价：深度阅读在发光的屏幕上更难经受打断；独立书店则以算法无法替代的方式，为街区提供着精神的锚点。任务不是逆转潮流，而是让图书馆与书店作为“慢慢选择阅读”的场所存续下去。",
+        "role": "评价段：先肯定总量上升的意义，再指出远离纸书的隐忧与应对"
+      }
+    ],
+    "outline": [
+      {
+        "part": "第一段",
+        "points": ["总述两条曲线反向而行", "给出2018与2023年的人均阅读量与纸书购买量", "点明关键在于差距而非单个数字"]
+      },
+      {
+        "part": "第二段",
+        "points": ["电子阅读降低获取成本、拓宽场景", "有声书与图书馆重新分配阅读时间", "房价与消费心理抑制纸质书购买"]
+      },
+      {
+        "part": "第三段",
+        "points": ["先肯定阅读总量翻倍的积极面", "再论远离纸书的代价：深读与书店", "落到公共文化空间的守护，而非简单逆转"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "its two curves move in opposite directions",
+        "type": "描述",
+        "note": "用 curve 与 opposite directions 交代图表结构，比 the number increased while... 更简洁"
+      },
+      {
+        "text": "climbed from 4.6 to 9.2",
+        "type": "数据表达",
+        "note": "climb 比 increase 更有走势感；同一段用 slid 与之对照，避免动词重复"
+      },
+      {
+        "text": "had widened into a chasm",
+        "type": "修辞",
+        "note": "chasm 指裂谷，把统计差距写成空间意象，收束描述段"
+      },
+      {
+        "text": "turned dead time into reading time",
+        "type": "搭配",
+        "note": "dead time 指等待、通勤等碎片时间，turn A into B 结构工整可仿写"
+      },
+      {
+        "text": "Price matters too",
+        "type": "过渡",
+        "note": "三词短句完成归因层次的切换，让长句之间留出呼吸"
+      },
+      {
+        "text": "deep reading survives interruption less easily on a glowing screen",
+        "type": "句式",
+        "note": "否定副词 less easily 后置，判断克制；glowing screen 代指电子设备"
+      }
+    ],
+    "tips": [
+      "图表作文按“描述—归因—评价”三段推进，一段一项职能，不要混写",
+      "数据只挑两三组关键的，用 climb、slide、widen 等动词体现走势",
+      "评价段必须表态，避免“有利有弊”式的中立收尾"
+    ]
+  },
+  {
+    "id": "e_6b_3",
+    "title_en": "Keeping the Courage to Learn",
+    "title_cn": "在不确定的时代，保持学习的勇气",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write a graduation speech on keeping the courage to learn in an age of uncertainty. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write a graduation speech on keeping the courage to learn in an age of uncertainty (150–200 words).",
+    "type": "speech",
+    "level": "cet6",
+    "word_count": 197,
+    "paragraphs": [
+      {
+        "en": "Distinguished faculty, proud families, and above all you, the class of 2025: good morning, and thank you for sharing this hour. Four years ago you arrived with a plan. That plan's world has shifted: the industries you trained for are being reorganised, and the certainties your teachers offered have softened at the edges. My hope for you is narrower than certainty, and more durable.",
+        "cn": "尊敬的各位老师、各位家长，尤其是你们——2025届的毕业生们：早上好，感谢你们与我共度这一小时。四年前，你们带着一份计划而来。那份计划所设想的世界已经改变：你们为之受训的行业正在重组，老师们给出的确定性也在边缘处变得柔软。我对你们的期许，比确定性更狭窄，也更耐久。",
+        "role": "开场段：称呼与致意，回顾入学计划与当下落差，抛出核心主张"
+      },
+      {
+        "en": "Courage is not the absence of fear but the refusal to let fear decide what you will learn. It is the graduate who, having spent four years in a laboratory, enrols in a night course on statistics because the questions have changed. It is the teacher who admits, in front of thirty teenagers, that she does not know, then goes home to find out.",
+        "cn": "勇气，不是没有恐惧，而是不让恐惧决定你去学什么。它是那位在实验室待了四年的毕业生，因为问题变了，便去夜校补一门统计课；它是那位在三十个中学生面前承认“我不知道”，随后回家把它弄明白的老师。",
+        "role": "主体段：界定“勇气”的内涵，用两个并列人物把抽象概念落到实处"
+      },
+      {
+        "en": "Such courage is quiet; it can be practised. Read one book a year outside your field. Ask a question that makes you look foolish. Keep a notebook of what you cannot explain. In ten years the skills on your diploma may be obsolete; the habit of learning will still be earning its keep. Thank you for listening, and take good care of the curiosity you brought here. Congratulations, graduates.",
+        "cn": "这样的勇气是安静的，也是可以反复练习的。每年读一本专业之外的书。问一个让自己显得愚蠢的问题。把还解释不清的事记在本子上。十年之后，毕业证书上的技能或许已经过时，而学习的习惯仍在为你挣得立足之地。谢谢大家的聆听，也请好好照看你们初来时的那一份好奇。祝贺你们，毕业生们。",
+        "role": "收束段：给出三点可操作的建议，对比技能与习惯，致谢并寄望"
+      }
+    ],
+    "outline": [
+      {
+        "part": "第一段",
+        "points": ["称呼听众并致意，点明场合", "回顾入学时的计划与今日世界的落差", "提出比“确定性”更耐久的期许"]
+      },
+      {
+        "part": "第二段",
+        "points": ["界定勇气：不是无惧，而是不让恐惧决定学什么", "例一：实验室出身的毕业生去夜校补统计", "例二：教师在学生面前承认不知"]
+      },
+      {
+        "part": "第三段",
+        "points": ["给出三条可执行的小建议", "对比文凭技能会过时、学习习惯仍有用", "致谢、祝贺，回到“好奇”作结"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "My hope for you is narrower than certainty, and more durable",
+        "type": "句式",
+        "note": "两个比较级并列，用“更窄却更耐久”化解“不确定”的焦虑，表态含蓄有力"
+      },
+      {
+        "text": "the refusal to let fear decide what you will learn",
+        "type": "搭配",
+        "note": "refusal to let A decide B 结构紧凑，what 从句作 decide 的宾语"
+      },
+      {
+        "text": "It is the graduate who",
+        "type": "修辞",
+        "note": "It is ... who 强调结构引出人物例证，演讲中便于制造节奏与画面"
+      },
+      {
+        "text": "in front of thirty teenagers",
+        "type": "细节",
+        "note": "用具体数字与场景替代抽象说理，是演讲稿区别于议论文的关键"
+      },
+      {
+        "text": "will still be earning its keep",
+        "type": "习语",
+        "note": "earn its keep 原指“挣口饭吃”，此处拟人化，说明习惯自有其回报"
+      },
+      {
+        "text": "take good care of the curiosity you brought here",
+        "type": "收尾",
+        "note": "以 care 呼应 courage 的语义场，省略关系词的定语从句让句子收得干净"
+      }
+    ],
+    "tips": [
+      "演讲开头必须有称呼，结尾必须有致谢，语气可比议论文更亲切",
+      "用具体人物和场景代替抽象号召，间以三词短句制造停顿",
+      "控制在200词以内，朗读一遍，凡拗口处一律改短"
+    ]
+  },
+  {
+    "id": "e_6b_4",
+    "title_en": "Planet Earth: Patience as a Virtue",
+    "title_cn": "《地球脉动》：把耐心看作一种德性",
+    "prompt_cn": "Directions: For this part, you are allowed 30 minutes to write a review of an English-language documentary. Include title, genre and evaluation. You should write at least 150 words but no more than 200 words.",
+    "prompt_en": "Write a short review of an English-language documentary, stating its title, genre and your evaluation (150–200 words).",
+    "type": "review",
+    "level": "cet6",
+    "word_count": 198,
+    "paragraphs": [
+      {
+        "en": "Planet Earth, the BBC nature documentary series narrated by David Attenborough, first aired in 2006 and remains the benchmark against which wildlife film-making is judged. Its eleven episodes cross deserts, ice caps, caves and seas, and its signature achievement is patience: crews waited months for one hunt or hatching. It is less a lecture on conservation than an invitation to look closely at a planet most of us will never see on foot.",
+        "cn": "《地球脉动》（Planet Earth）是英国广播公司出品、由大卫·爱登堡解说的自然纪录片，2006年首播，至今仍是衡量野生动物影像的标尺。全片十一集，跨越沙漠、冰原、洞穴与海洋；其最具标志性的成就是耐心——摄制组为了一次捕猎或一次破壳，往往要等上数月。与其说它是一堂环保课，不如说它是一封邀请函，邀你细看这颗大多数人终其一生不会徒步抵达的星球。",
+        "role": "交代段：给出片名、类型、出品与首播信息，概括内容跨度与拍摄特点"
+      },
+      {
+        "en": "Its pleasures are genuine. A snow leopard sequence, shot over months at altitude, earns every minute. The criticism is fair too: the narration sometimes reaches for a moral it has not quite earned, and it prefers the spectacular to the ordinary, so the unglamorous species that hold ecosystems together appear rarely. At eleven hours, it also asks more of a viewer than most television dares.",
+        "cn": "它的动人之处是真实的。雪豹那一段在高海拔守候数月拍成，每一分钟都当得起。批评同样站得住脚：解说有时急于抵达一个尚未挣得的道理；片子偏爱奇观而轻慢寻常，那些维系着生态系统的、并不起眼的小物种因而很少露面。十一小时的体量，也让它对观看者提出的要求高于多数电视节目。",
+        "role": "评析段：先肯定影像成就，再指出解说与取材上的局限及观看门槛"
+      },
+      {
+        "en": "None of this diminishes what Planet Earth achieves. It makes distant places feel specific, and specific things are harder to waste. Watch it for its photography; stay for the reminder that patience with the world is a moral quality as much as a technical one. Recommended, with a caveat: it will leave you restless, and quite possibly a little ashamed.",
+        "cn": "这些都不减损《地球脉动》的成就。它让遥远之地变得具体，而具体之物更难被轻易糟蹋。为它的摄影而看，为那句提醒而留下：对世界保持耐心，既是技术，也是德性。推荐，但附一句提醒——它会让你坐立不安，甚至颇有些羞愧。",
+        "role": "结论段：归结作品的真正价值，给出明确推荐与保留意见"
+      }
+    ],
+    "outline": [
+      {
+        "part": "第一段",
+        "points": ["交代片名、出品方、解说与首播年份", "概括十一集的内容跨度与拍摄的耐心", "点出气质：不是环保说教，而是邀请观看"]
+      },
+      {
+        "part": "第二段",
+        "points": ["以雪豹片段说明其影像成就", "指出解说与取材的两处局限", "提及十一小时体量带来的观看门槛"]
+      },
+      {
+        "part": "第三段",
+        "points": ["阐明价值：让远方变得具体", "给出“推荐，但有保留”的明确判断", "以观后坐立不安收尾，留有回味"]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "remains the benchmark against which wildlife film-making is judged",
+        "type": "句式",
+        "note": "against which 引导定语从句，评价性判断因此显得有依据而非空夸"
+      },
+      {
+        "text": "its signature achievement is patience",
+        "type": "词汇",
+        "note": "signature 表示“标志性的”，把技术与态度并置，一句立起评论角度"
+      },
+      {
+        "text": "A snow leopard sequence, shot over months at altitude",
+        "type": "细节",
+        "note": "名词短语后接过去分词短语作后置定语，用具体镜头支撑赞美，避免形容词堆砌"
+      },
+      {
+        "text": "reaches for a moral it has not quite earned",
+        "type": "评价",
+        "note": "reach for 与 earn 搭配，批评克制而准确，是影评中“留有余地”的写法"
+      },
+      {
+        "text": "specific things are harder to waste",
+        "type": "议论",
+        "note": "由具体化推出伦理判断，短句承接前句，形成评论的转折点"
+      },
+      {
+        "text": "Recommended, with a caveat",
+        "type": "收束",
+        "note": "省略主语的推荐句式，caveat 表示“保留意见”，态度明确又不失分寸"
+      }
+    ],
+    "tips": [
+      "影评先给片名、类型与基本信息，再论优劣，最后落到明确推荐",
+      "评价要克制：一分为二，指出局限比一味赞美更可信",
+      "用一两处具体镜头或制作细节支撑判断，少用 moving、amazing 一类空泛形容词"
+    ]
+  }
+]
